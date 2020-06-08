@@ -71,7 +71,7 @@
 
     margin-top: 40px;
 
-    background: var(--primary-color);
+    background: #befad9;
 
     transition: 400ms;
 
@@ -105,6 +105,6 @@
 
 #page-home main a strong {
     flex: 1;
-    color: white;
+    color: var(--title-color);
     text-align: center;
 }
