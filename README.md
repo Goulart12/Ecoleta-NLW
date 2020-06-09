@@ -1,4 +1,4 @@
-<img src="/public/assets/logo.svg"> 
+<img src="/public/assets/logo2.svg"> 
 
 ### ♻️ O Ecoleta é uma aplicação desenvolvida pela Rocketseat 🚀 durante a Next Level Week com o intuito de ensinar conceitos básicos de front-end por javascript. A aplicação tem como objetivo ajudar pessoas a encontrarem pontos de coleta para lixo reciclável e do tipo que necessita de descarte especial. ♻️
 
