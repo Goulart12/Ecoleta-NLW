@@ -33,8 +33,11 @@ $ npm install
 $ npm install npm@latest -g
 ```
 
-![] (/image/home.png)
-
-<img src="/image/home.png">
+<img src="/image/home.png" height="150" width="150">
+<img src="/image/search.png" height="150" width="150">
+<img src="/image/create1.png" height="150" width="150">
+<img src="/image/create2.png" height="150" width="150">
+<img src="/image/positive.png" height="150" width="150">
+<img src="/image/main.png" height="150" width="150">
 
 ## Feito com ❤️ por Juarez Goulart
